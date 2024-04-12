@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (exercicio1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  exercicio1.cpp
+C:\Users\47446295805\Desktop\exercicio1\exercicio1\exercicio1.cpp(8,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  exercicio1.vcxproj -> C:\Users\47446295805\Desktop\exercicio1\x64\Debug\exercicios.exe
